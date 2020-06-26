@@ -1,0 +1,1 @@
+memset - memset(arr, fill_val, sizeof(arr))
