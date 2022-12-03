@@ -28,5 +28,4 @@ class Solution:
             if total > target:
                 end -= 1
             else:
-                start += 1 
-        
+                start += 1
